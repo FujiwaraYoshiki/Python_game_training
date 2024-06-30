@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51c7709d-faf0-40d3-9996-49d520a5e8f2" name="変更" comment="temp">
-      <change afterPath="$PROJECT_DIR$/practice/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/key_by_key_operation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/real_time_keystrokes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/real_time_processing _count_generic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/scraping/01_web_page_title_acquisition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/scraping/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TestProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TestProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cui_sugoroku_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/cui_sugoroku_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/real_time_processing _count.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/real_time_processing _count.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.01_web_page_title_acquisition.executor": "Run",
     "Python.cui_sugoroku_game.executor": "Run",
     "Python.key_by_key_operation.executor": "Run",
     "Python.list.executor": "Run",
@@ -53,7 +51,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/pg/PycharmProjects/TestProject",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
