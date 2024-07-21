@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51c7709d-faf0-40d3-9996-49d520a5e8f2" name="変更" comment="[Scraping]Basic scraping ( get title of web page)">
-      <change afterPath="$PROJECT_DIR$/practice/scraping/02_csv_conversion_of_scraping_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="51c7709d-faf0-40d3-9996-49d520a5e8f2" name="変更" comment="[Scraping]Create:02_csv_conversion_of_scraping_data" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719760853567</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="[Scraping]Create:02_csv_conversion_of_scraping_data">
+      <option name="closed" value="true" />
+      <created>1721546107172</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721546107172</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,7 +164,8 @@
     <MESSAGE value="Create:real_time_processing_count" />
     <MESSAGE value="temp" />
     <MESSAGE value="[Scraping]Basic scraping ( get title of web page)" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Scraping]Basic scraping ( get title of web page)" />
+    <MESSAGE value="[Scraping]Create:02_csv_conversion_of_scraping_data" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Scraping]Create:02_csv_conversion_of_scraping_data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
