@@ -9,11 +9,10 @@
 <body>
     <h1>{{ message }}</h1>
 
-    <!-- フォーム追加 -->
+    <!-- フォーム表示 -->
     <form method="post">
         {% csrf_token %}
-        <label for="name">Enter your name:</label>
-        <input type="text" id="name" name="name">
+        {{ form.as_p }}
         <button type="submit">Submit</button>
     </form>
 </body>
