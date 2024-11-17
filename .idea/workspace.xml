@@ -4,26 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51c7709d-faf0-40d3-9996-49d520a5e8f2" name="変更" comment="[puzzle_game]Create:&#10;- mouse_event">
-      <change afterPath="$PROJECT_DIR$/myproject01/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject01/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject01/myapp01/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject01/myapp01/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject01/myapp01/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject01/myapp01/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject01/myapp01/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject01/myapp01/templates/myapp01/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject01/myapp01/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject01/myapp01/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject01/myapp01/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject01/myproject01/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject01/myproject01/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject01/myproject01/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject01/myproject01/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject01/myproject01/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TestProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TestProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="51c7709d-faf0-40d3-9996-49d520a5e8f2" name="変更" comment="[Django]Create:myproject01&#10; - Creation of basic applications&#10; - Creation of basic templates&#10; - Making templates dynamic">
+      <change afterPath="$PROJECT_DIR$/myproject01/myapp01/form.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject01/myapp01/templates/myapp01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/myproject01/myapp01/templates/myapp01/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject01/myapp01/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject01/myapp01/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,29 +40,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.01_web_page_title_acquisition.executor": "Run",
-    "Python.02_csv_conversion_of_scraping_data.executor": "Run",
-    "Python.cui_sugoroku_game.executor": "Run",
-    "Python.key_by_key_operation.executor": "Run",
-    "Python.list.executor": "Run",
-    "Python.list0503_5.executor": "Run",
-    "Python.list0601_1.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.master.executor": "Run",
-    "Python.mouse_event.executor": "Run",
-    "Python.real_time_keystrokes.executor": "Run",
-    "Python.real_time_processing _count.executor": "Run",
-    "Python.real_time_processing _count_generic.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/pg/PycharmProjects/TestProject/for_django",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.01_web_page_title_acquisition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_csv_conversion_of_scraping_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cui_sugoroku_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.key_by_key_operation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list0503_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list0601_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.master.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mouse_event.executor&quot;: &quot;Run&quot;,
+    &quot;Python.real_time_keystrokes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.real_time_processing _count.executor&quot;: &quot;Run&quot;,
+    &quot;Python.real_time_processing _count_generic.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pg/PycharmProjects/TestProject/for_django&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\pg\PycharmProjects\TestProject\practice\puzzle_game\prerequisite_knowledge" />
@@ -191,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722787009250</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="[Django]Create:myproject01&#10; - Creation of basic applications&#10; - Creation of basic templates&#10; - Making templates dynamic">
+      <option name="closed" value="true" />
+      <created>1731248369718</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731248369719</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,7 +205,8 @@
     <MESSAGE value="[Scraping]Create:02_csv_conversion_of_scraping_data" />
     <MESSAGE value="[puzzle_game]Create:&#10;- mouse_event" />
     <MESSAGE value="[puzzle_game]Create:&#10;- mouse_event" />
-    <option name="LAST_COMMIT_MESSAGE" value="[puzzle_game]Create:&#10;- mouse_event" />
+    <MESSAGE value="[Django]Create:myproject01&#10; - Creation of basic applications&#10; - Creation of basic templates&#10; - Making templates dynamic" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Django]Create:myproject01&#10; - Creation of basic applications&#10; - Creation of basic templates&#10; - Making templates dynamic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,9 +1,17 @@
+# myapp01/views.py
 from django.shortcuts import render
-from django.http import HttpResponse
 
 
 def index(request):
+    if request.method == "POST":
+        # フォームから送られたデータを取得
+        name = request.POST.get('name', '')
+        message = f"Hello, {name}! Nice to meet you!"
+    else:
+        # デフォルトのメッセージ
+        message = "Hello! Please enter your name."
+
     context = {
-        'message': "Hello, dynamic world! This is a message from the view."
+        'message': message
     }
     return render(request, 'myapp01/index.html', context)
