@@ -1,0 +1,19 @@
+<!-- myapp01/templates/myapp01/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyApp01 Form</title>
+</head>
+<body>
+    <h1>{{ message }}</h1>
+
+    <!-- フォーム表示 -->
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51c7709d-faf0-40d3-9996-49d520a5e8f2" name="変更" comment="[puzzle_game]Create:&#10;- mouse_event">
-      <change afterPath="$PROJECT_DIR$/practice/puzzle_game/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/puzzle_game/prerequisite_knowledge/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/puzzle_game/prerequisite_knowledge/mouse_event.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="51c7709d-faf0-40d3-9996-49d520a5e8f2" name="変更" comment="[Django]Create:myproject01&#10; - Creating forms utilizing form classes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,11 +13,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -36,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;Python.01_web_page_title_acquisition.executor&quot;: &quot;Run&quot;,
     &quot;Python.02_csv_conversion_of_scraping_data.executor&quot;: &quot;Run&quot;,
     &quot;Python.cui_sugoroku_game.executor&quot;: &quot;Run&quot;,
@@ -52,7 +54,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/pg/PycharmProjects/TestProject/practice/puzzle_game/prerequisite_knowledge&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pg/PycharmProjects/TestProject/for_django&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
@@ -161,7 +163,39 @@
       <option name="project" value="LOCAL" />
       <updated>1721546350852</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="[puzzle_game]Create:&#10;- mouse_event">
+      <option name="closed" value="true" />
+      <created>1722787009250</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722787009250</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[Django]Create:myproject01&#10; - Creation of basic applications&#10; - Creation of basic templates&#10; - Making templates dynamic">
+      <option name="closed" value="true" />
+      <created>1731248369718</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731248369719</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[Django]Create:myproject01&#10; - Creating forms that reflect simple input">
+      <option name="closed" value="true" />
+      <created>1731852011456</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731852011456</updated>
+    </task>
+    <task id="LOCAL-00011" summary="[Django]Create:myproject01&#10; - Creating forms utilizing form classes">
+      <option name="closed" value="true" />
+      <created>1731852212046</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1731852212046</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,7 +216,10 @@
     <MESSAGE value="[Scraping]Create:02_csv_conversion_of_scraping_data" />
     <MESSAGE value="[puzzle_game]Create:&#10;- mouse_event" />
     <MESSAGE value="[puzzle_game]Create:&#10;- mouse_event" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="[Django]Create:myproject01&#10; - Creation of basic applications&#10; - Creation of basic templates&#10; - Making templates dynamic" />
+    <MESSAGE value="[Django]Create:myproject01&#10; - Creating forms that reflect simple input" />
+    <MESSAGE value="[Django]Create:myproject01&#10; - Creating forms utilizing form classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Django]Create:myproject01&#10; - Creating forms utilizing form classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
